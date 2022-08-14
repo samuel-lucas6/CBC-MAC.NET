@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBCMACDotNet", "CBCMACDotNet\CBCMACDotNet.csproj", "{9AD5BA74-4FFC-4A27-9EFC-2A912E7C4F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBCMacDotNet.Tests", "CBCMacDotNet.Tests\CBCMacDotNet.Tests.csproj", "{B5EF3404-33E9-4124-8267-6F60C3E0B628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD5BA74-4FFC-4A27-9EFC-2A912E7C4F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD5BA74-4FFC-4A27-9EFC-2A912E7C4F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD5BA74-4FFC-4A27-9EFC-2A912E7C4F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD5BA74-4FFC-4A27-9EFC-2A912E7C4F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EF3404-33E9-4124-8267-6F60C3E0B628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EF3404-33E9-4124-8267-6F60C3E0B628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EF3404-33E9-4124-8267-6F60C3E0B628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EF3404-33E9-4124-8267-6F60C3E0B628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
