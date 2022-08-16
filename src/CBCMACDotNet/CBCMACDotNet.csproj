@@ -4,18 +4,16 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <Title>CBCMACDotNet</Title>
+        <Version>1.0.0</Version>
         <Authors>Samuel Lucas</Authors>
         <Description>A .NET implementation of length-prepend CBC-MAC.</Description>
-        <Copyright>Copyright (c) 2022 Samuel Lucas </Copyright>
+        <Copyright>Copyright (c) 2022 Samuel Lucas</Copyright>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageProjectUrl>https://github.com/samuel-lucas6/CBC-MAC.NET</PackageProjectUrl>
         <RepositoryUrl>https://github.com/samuel-lucas6/CBC-MAC.NET</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageTags>cbc-mac cbc mac message-authentication-code</PackageTags>
+        <PackageTags>cbc-mac cbc aes-cbc mac message-authentication-code</PackageTags>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <FileVersion>1.0.0.0</FileVersion>
     </PropertyGroup>
 
 </Project>
